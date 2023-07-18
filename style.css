@@ -11,10 +11,9 @@ body {
 }
 
 .main {
-  padding: 2rem 0;
-  width: 30vw;
-  margin-left: 50vw;
-  transform: translateX(-50%);
+  padding: 2rem 1rem;
+  max-width: 500px;
+  margin: 0 auto;
 }
 
 .heading-1 {
@@ -28,7 +27,7 @@ body {
   font-size: 1.25rem;
   padding: 0.5rem;
   border: none;
-  width: 25vw;
+  width: 100%;
   margin-bottom: 0.5rem;
 }
 
@@ -52,7 +51,7 @@ body {
 }
 
 .todos-container {
-  height: 70vh;
+  max-height: 400px;
   overflow-y: auto;
 }
 
