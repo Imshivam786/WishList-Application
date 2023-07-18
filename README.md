@@ -1,1 +1,2 @@
 # WishList-Application
+This is an application build for adding wishes. After completing the wishes the user can delete the wishes. This application is build using Js,html and css. The js concepts which are used in the application are event delegation and using of the localStorage of the browser to store the history data. Even if the user close the window the application remember what user has entered before.
